@@ -1,0 +1,1 @@
+curl "http://192.168.31.111/LED=ON&AUTHKEY=amichoriyechi" -v
